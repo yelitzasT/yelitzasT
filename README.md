@@ -9,9 +9,6 @@
 Hola, soy **Yelitza Tapia**, estudiante de **Ingeniería Industrial** y una persona que siempre está buscando crecer, aprender y asumir nuevos retos.  
 Me considero alguien muy comprometida con lo que hace, con una gran capacidad para adaptarse, trabajar en equipo y liderar cuando es necesario.
 
-Desde hace un tiempo he descubierto un gran interés por el área de **finanzas**, ya que me llama mucho la atención cómo a través del análisis y la toma de decisiones estratégicas se puede generar un impacto real dentro de una empresa.  
-Además, me gusta aprender sobre herramientas, procesos y todo aquello que me ayude a mejorar tanto a nivel académico como profesional.
-
 Siento que una de las cosas que más me define es que **nunca me quedo quieta**. Siempre estoy buscando qué hacer, cómo aportar, cómo mejorar y cómo seguir avanzando. Para mí, crecer no es solo obtener conocimientos, sino también desarrollar una mentalidad fuerte, disciplinada y con visión.
 
 ---
