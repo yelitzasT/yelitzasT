@@ -4,10 +4,9 @@
 <h1 align="center"> Hola, soy Yelitza Tapia 😊</h1>
 <h3 align="center">Estudiante de Ingeniería Industrial | Apasionada por las finanzas, el liderazgo y el crecimiento personal</h3>
 
-![Excel](https://img.shields.io/badge/-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&label=)
-![Power BI](https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&label=)
-![RStudio](https://img.shields.io/badge/-75AADB?style=for-the-badge&logo=rstudio&logoColor=white&label=)
-
+https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg}
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40"/>
 
 ## ✨ Sobre mí
 
