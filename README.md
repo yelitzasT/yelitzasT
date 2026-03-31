@@ -1,12 +1,18 @@
 
 <h1 align="center"> Hola, soy Yelitza Tapia 😊</h1>
 <h3 align="center">Estudiante de Ingeniería Industrial | Apasionada por las finanzas, el liderazgo y el crecimiento personal</h3>
+
 <p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="45" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="45" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="45" />
-  <img src="https://cdn.simpleicons.org/rstudio/75AADB" alt="RStudio" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="45" />
 </p>
+
+- 📊 Power BI  
+- 🧪 RStudio  
+- 🎲 Arena Simulation
 ---
 
 ## ✨ Sobre mí
