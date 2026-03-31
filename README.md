@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./presentacion.png" alt="Banner Yelitza Tapia" width="100%" />
+  <img src="./assets/presentacion.png" alt="Banner Yelitza Tapia" width="100%" />
 </p>
 <h1 align="center"> Hola, soy Yelitza Tapia 😊</h1>
 <h3 align="center">Estudiante de Ingeniería Industrial | Apasionada por las finanzas, el liderazgo y el crecimiento personal</h3>
