@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="foto-perfil.jpg" alt="Foto de Yelitza Tapia" width="180">
-</p>
 
 <h1 align="center">👩‍💼 Yelitza Tapia</h1>
 <h3 align="center">Estudiante de Ingeniería Industrial | Apasionada por las finanzas, el liderazgo y el crecimiento personal</h3>
