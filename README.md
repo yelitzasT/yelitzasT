@@ -4,9 +4,8 @@
 <h1 align="center"> Hola, soy Yelitza Tapia 😊</h1>
 <h3 align="center">Estudiante de Ingeniería Industrial | Apasionada por las finanzas, el liderazgo y el crecimiento personal</h3>
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg}
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40"/>
+https://cdn.simpleicons.org/microsoftexcel/217346
+https://cdn.simpleicons.org/powerbi/F2C811
 
 ## ✨ Sobre mí
 
