@@ -2,9 +2,11 @@
 <h1 align="center"> Hola, soy Yelitza Tapia 😊</h1>
 <h3 align="center">Estudiante de Ingeniería Industrial | Apasionada por las finanzas, el liderazgo y el crecimiento personal</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="45" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="45" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="45" />
+  <img src="https://cdn.simpleicons.org/rstudio/75AADB" alt="RStudio" width="45" />
+  <img src="https://img.shields.io/badge/Arena-FF6B00?style=flat-square" height="45" alt="Arena Simulation" />
 </p>
 ---
 
