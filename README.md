@@ -1,5 +1,5 @@
 
-<h1 align="center">👩‍💼 Yelitza Tapia</h1>
+<h1 align="center"> Hola, soy Yelitza Tapia 😊**</h1>
 <h3 align="center">Estudiante de Ingeniería Industrial | Apasionada por las finanzas, el liderazgo y el crecimiento personal</h3>
 
 ---
