@@ -82,12 +82,6 @@ En este momento estoy enfocada en:
 ## 📫 Contacto
 
 - **GitHub:** [github.com/yelitizasT](https://github.com/yelitizasT)
-- **LinkedIn:** *(puedes agregarlo aquí si tienes uno)*
-- **Correo:** *(puedes agregar tu correo aquí si quieres)*
-
+- **LinkedIn:** *www.linkedin.com/in/yelitza-tapia-9127513a1*
 ---
 
-## ⭐ Nota final
-
-Este espacio representa una parte de quién soy hoy: una estudiante con metas claras, con muchas ganas de aprender, de crecer y de construir un futuro profesional sólido.  
-Sé que todavía estoy en proceso, pero también sé que la constancia, la actitud y la visión hacen una gran diferencia.
