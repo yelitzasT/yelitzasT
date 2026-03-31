@@ -1,6 +1,10 @@
 
 <h1 align="center"> Hola, soy Yelitza Tapia 😊</h1>
 <h3 align="center">Estudiante de Ingeniería Industrial | Apasionada por las finanzas, el liderazgo y el crecimiento personal</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Industrial%20Engineering-Student-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Finance-Focused-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-In%20Progress-orange?style=for-the-badge" />
 
 ---
 
